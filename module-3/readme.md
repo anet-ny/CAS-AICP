@@ -1,4 +1,7 @@
 # AI for Sound
+
+https://drive.google.com/drive/folders/1wGGwS1OTCNsHunVBbjehFHLdIvfIDIUu
+
 ## About
 In this module, participants will learn about common sound patterns, how to collect and represent sound data, train models with them, generate new patterns with the trained models and get an overview of the common AI sound applications in art and other creative practices.
 
