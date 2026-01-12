@@ -1,4 +1,7 @@
 # AI for Movement/Sensing: Realtime Interaction 
+
+## In this repository the files are not stored in GitHub. They are stored locally due to size.
+
 ## About
 In this module, participants will study how to train deep neural networks to learn and generate data from movement and vice versa. Real time interactions and the loops thereby generated will also be considered.
 Graduates will:
