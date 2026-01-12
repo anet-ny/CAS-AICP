@@ -1,5 +1,5 @@
-#AI and ML Fundamentals 
-##about
+# AI and ML Fundamentals 
+## about
 in this module we approach basic AI concepts from an historical, cultural, aesthetic, and technical point of view to perform machine learning.
 
 Graduates will:
